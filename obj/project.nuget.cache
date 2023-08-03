@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Chv0U2/UVRFEC4Tu0ou8D9ganEzhS1JWsQ+VOvugTXjL8cjERYBZl4V3pT7KyNNtNNF4ffk4dudEwNCYw0SE8A==",
+  "dgSpecHash": "8xy4tctkyZea4K21wtLPyhxmFUzL5FzMDVD33AXF3tEiYEsepNPHvTyIeHBq51WspqgE+Hvt1/3k9kL1l/c4Gg==",
   "success": true,
   "projectFilePath": "C:\\Users\\android\\Documents\\API\\CriarAPI.WebApi\\CriarAPI.WebApi.csproj",
   "expectedPackageFiles": [
@@ -85,10 +85,10 @@
     "C:\\Users\\android\\.nuget\\packages\\nuget.projectmodel\\5.11.0\\nuget.projectmodel.5.11.0.nupkg.sha512",
     "C:\\Users\\android\\.nuget\\packages\\nuget.protocol\\5.11.0\\nuget.protocol.5.11.0.nupkg.sha512",
     "C:\\Users\\android\\.nuget\\packages\\nuget.versioning\\5.11.0\\nuget.versioning.5.11.0.nupkg.sha512",
-    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.0\\swashbuckle.aspnetcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.0\\swashbuckle.aspnetcore.swagger.6.0.0.nupkg.sha512",
+    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.0\\swashbuckle.aspnetcore.swaggergen.6.0.0.nupkg.sha512",
+    "C:\\Users\\android\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.0\\swashbuckle.aspnetcore.swaggerui.6.0.0.nupkg.sha512",
     "C:\\Users\\android\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\android\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\android\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
