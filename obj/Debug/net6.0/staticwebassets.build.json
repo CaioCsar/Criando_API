@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZoRTaWPvnUG+TOFqtC1RZ5L3p2EeCCDBaGJO4jcdWZo=",
+  "Source": "CriarAPI.WebApi",
+  "BasePath": "_content/CriarAPI.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
